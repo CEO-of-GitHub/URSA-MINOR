@@ -1,4 +1,5 @@
 /*
+  URSA_MINOR_v1.0
   Developed using Arduino IDE 2.2.1
   Library Versions:
     SD 1.2.4
