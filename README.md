@@ -12,9 +12,10 @@
   - _BN-880 GPS Module:_ tracks coordinates of rocket
   - _EG1218 E-Switch:_ for activating/deactivating data logging
   - _HiLetgo MicroSD Card Reader:_ logs data into MicroSD card during flight
-- Setup Code: Begin serial, then initialize sensors. Program halt if initialization incomplete.
+- Setup Code:
+  - Begin serial, then initialize sensors. Program halt if initialization incomplete.
 - Loop Code:
- 1. Check for E-Switch switch status, then either make new datalog file or write over existing datalog file depending on whether switch is OFF or ON during previous loop iteration (if at first iteration, it is considered to be OFF).
- 2. Collect data from GY-91 module & BN-880 GPS module.
- 3. Identify most recent E-Switch status, to be used as reference for next loop iteration.
- 4. Delay of 100 ms.
+  - Check for E-Switch switch status, then either make new datalog file or write over existing datalog file depending on whether switch is OFF or ON during previous loop iteration (if at first iteration, it is considered to be OFF).
+  - Collect data from GY-91 module & BN-880 GPS module.
+  - Identify most recent E-Switch status, to be used as reference for next loop iteration.
+  - Delay of 100 ms.
