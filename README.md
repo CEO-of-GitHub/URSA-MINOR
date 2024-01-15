@@ -2,7 +2,8 @@
 
 > **v1.1 (CURRENT):**
 - Added _W25Q SPI Flash Chip_. Strong vibrations of rocket while in-flight may corrupt data logged into MicroSD since it is locked in place mechanically, hence a soldered alternative, the SPI Flash Chip, should be used.
-- Added _NRF24L01 Transceiver Module_. Obtains data from rocket wirelessly for real-time tracking in a telemetry dashboard. 
+- Added _NRF24L01 Transceiver Module_. Obtains data from rocket wirelessly for real-time tracking in a telemetry dashboard.
+- Changed microcontroller from Arduino Nano to ESP32
 - MicroSD card module will still be included, but only used for obtaining data from rocket after flight.
  
 > **v1.0 (UNFIN. DISCON.):**
