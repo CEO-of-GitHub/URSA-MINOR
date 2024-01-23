@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T21:32:10.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="o6ytPQ56MxIqrE_UWjkP" version="22.1.22" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T21:32:57.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="1iX6K30ueIRQ1YLMquNA" version="22.1.22" type="github">
   <diagram id="Kgz-I2Onq_ngCIVEnlhg" name="Page-1">
-    <mxGraphModel dx="888" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1072" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,8 @@
         <mxCell id="-cz0K4mL6-3bw0Zg1IZK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350.5" y="185" width="450.5" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="-cz0K4mL6-3bw0Zg1IZK-10" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;Test out data transfer with these three tools:&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;E-switch for activating data collection&lt;/li&gt;&lt;li&gt;MicroSD module + W25Q SPI flash chip for storing collected data&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="438.27" y="203" width="276" height="54" as="geometry" />
+        <mxCell id="-cz0K4mL6-3bw0Zg1IZK-10" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;Test out data collection and transfer with these three tools:&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;E-switch for activating data collection&lt;/li&gt;&lt;li&gt;MicroSD module + W25Q SPI flash chip for storing collected data&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="404.89" y="205" width="341.73" height="54" as="geometry" />
         </mxCell>
         <mxCell id="fWsVMU4tvbM98KFU46y7-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="Deo3jvzjxQysCk5P8_Im-2" target="fWsVMU4tvbM98KFU46y7-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
