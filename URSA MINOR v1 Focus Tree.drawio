@@ -1,16 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T18:51:59.921Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="SXy1PQKrqMtcBYFGOD0v" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T21:32:10.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="o6ytPQ56MxIqrE_UWjkP" version="22.1.22" type="github">
   <diagram id="Kgz-I2Onq_ngCIVEnlhg" name="Page-1">
-    <mxGraphModel dx="1206" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Deo3jvzjxQysCk5P8_Im-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-332" y="-36" width="2610" height="1362" as="geometry" />
+          <mxGeometry x="-334" y="-74" width="2610" height="1362" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="fWsVMU4tvbM98KFU46y7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="6" y="49" width="1727" height="1222" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Deo3jvzjxQysCk5P8_Im-2" target="fWsVMU4tvbM98KFU46y7-2">
+        <mxCell id="-cz0K4mL6-3bw0Zg1IZK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350.5" y="185" width="450.5" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="-cz0K4mL6-3bw0Zg1IZK-10" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;Test out data transfer with these three tools:&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;E-switch for activating data collection&lt;/li&gt;&lt;li&gt;MicroSD module + W25Q SPI flash chip for storing collected data&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="438.27" y="203" width="276" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="fWsVMU4tvbM98KFU46y7-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="Deo3jvzjxQysCk5P8_Im-2" target="fWsVMU4tvbM98KFU46y7-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Deo3jvzjxQysCk5P8_Im-2" value="Make &lt;i style=&quot;font-size: 12px;&quot;&gt;Focus Tree&lt;/i&gt; of tasks to complete for Functionality" style="whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;" parent="1" vertex="1">
@@ -19,47 +25,65 @@
         <mxCell id="Deo3jvzjxQysCk5P8_Im-3" value="FUNCTIONALITY" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="55.5" y="-26" width="166" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-1" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;Create .ide file, and make a&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&amp;nbsp;comment layout:&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Declare functions and preliminary variables&lt;/li&gt;&lt;li&gt;Explain how each function works in pseudocode, beside function declaration&lt;/li&gt;&lt;li&gt;Make prototypes for each function&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="fWsVMU4tvbM98KFU46y7-1" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;Create .ide file, and make a&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&amp;nbsp;comment layout:&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Declare functions and preliminary variables&lt;/li&gt;&lt;li&gt;Explain how each function works in pseudocode, beside function declaration&lt;/li&gt;&lt;li&gt;Make prototypes for each function&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="47" y="227.63" width="205" height="157.75" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;EG1218 E-switch&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350.5" y="102" width="122" height="51" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;EG1218 E-switch&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="368.77" y="278.5" width="122" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-8" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;MicroSD card &amp;nbsp; module&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;textOpacity=80;" vertex="1" parent="1">
-          <mxGeometry x="350.5" y="176.63" width="122" height="51" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-8" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;MicroSD card &amp;nbsp; module&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;textOpacity=80;" parent="1" vertex="1">
+          <mxGeometry x="515.27" y="278.5" width="122" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-9" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;W25Q SPI&lt;br&gt;flash chip&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350.5" y="252" width="122" height="51" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-9" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;W25Q SPI&lt;br&gt;flash chip&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="660.74" y="278.5" width="122" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-12" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RFM95W LoRa module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="344" y="1106" width="122" height="51" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="350.5" y="515" width="420" height="238" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350.5" y="338" width="420" height="238" as="geometry" />
+        <mxCell id="-cz0K4mL6-3bw0Zg1IZK-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="fWsVMU4tvbM98KFU46y7-10" target="-cz0K4mL6-3bw0Zg1IZK-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-10" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GY-91 module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="499.5" y="397" width="122" height="51" as="geometry" />
+        <mxCell id="-cz0K4mL6-3bw0Zg1IZK-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="fWsVMU4tvbM98KFU46y7-10" target="-cz0K4mL6-3bw0Zg1IZK-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-15" value="Choose a MEMS module, and make it work (pick one)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="490" y="352" width="168" height="30" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-10" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GY-91 multi-sensor module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="506.81999999999994" y="581.81" width="122" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Apply Kalman filter to the MEMS module&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="833" y="427" width="120" height="60" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-15" value="Choose a MEMS module, and make it work (pick one)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="483.82" y="534" width="168" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350.5" y="650" width="472.5" height="238" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Apply Kalman filter to the MEMS module&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="833" y="604" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-19" value="Choose a GPS module, and make it work (pick one)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="487.63" y="667" width="160.37" height="30" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="350.5" y="835" width="451.5" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-13" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;BN-880 GPS &amp;nbsp; &amp;nbsp;module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="725" width="122" height="51" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-19" value="Choose a GPS module, and make it work (pick one)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="496.07" y="855" width="160.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-20" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;BN-220 GPS &amp;nbsp; &amp;nbsp;module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="513.75" y="725" width="122" height="51" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-13" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;BN-880 GPS &amp;nbsp; &amp;nbsp;module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="377.5" y="902" width="122" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-21" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Adafruit Ultimate &amp;nbsp;GPS Breakout&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="648.5" y="725" width="122" height="51" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-20" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;BN-220 GPS &amp;nbsp; &amp;nbsp;module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="515.25" y="902" width="122" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fWsVMU4tvbM98KFU46y7-21" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Adafruit Ultimate &amp;nbsp;GPS Breakout&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="648.5" y="902" width="122" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="-cz0K4mL6-3bw0Zg1IZK-1" value="MPU-9250 module" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="431.32" y="662.81" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-cz0K4mL6-3bw0Zg1IZK-2" value="MPU-9250 module" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="584.32" y="662.81" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-cz0K4mL6-3bw0Zg1IZK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350.5" y="1082" width="451.5" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="-cz0K4mL6-3bw0Zg1IZK-8" value="Choose a long-range RF module, and make it work (pick one)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="483.04" y="1106" width="186.43" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWsVMU4tvbM98KFU46y7-12" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RFM95W LoRa module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="513.3199999999999" y="1161" width="122" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
