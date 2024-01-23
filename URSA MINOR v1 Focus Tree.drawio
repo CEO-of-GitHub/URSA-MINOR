@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-01-23T18:11:49.679Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="wdzKTAp6yaDQ5bZm6PbM" version="22.1.21" type="github">
+  <diagram id="Kgz-I2Onq_ngCIVEnlhg" name="Page-1">
+    <mxGraphModel dx="1248" dy="1015" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Deo3jvzjxQysCk5P8_Im-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-234" y="-36" width="745" height="414" as="geometry" />
+        </mxCell>
+        <mxCell id="Deo3jvzjxQysCk5P8_Im-2" value="Make &lt;i&gt;Focus Tree&lt;/i&gt; of tasks to complete for Functionality" style="whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-198" y="139.5" width="129" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Deo3jvzjxQysCk5P8_Im-3" value="FUNCTIONALITY" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="55.5" y="-26" width="166" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
