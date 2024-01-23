@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T18:36:43.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="IDzIPnoJH7RT2IIXCRf6" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T18:41:10.383Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="247yvgRtoIJ6vba7IJe-" version="22.1.21" type="github">
   <diagram id="Kgz-I2Onq_ngCIVEnlhg" name="Page-1">
-    <mxGraphModel dx="1072" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1348" dy="1087" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Deo3jvzjxQysCk5P8_Im-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-234" y="-36" width="1291" height="665" as="geometry" />
+          <mxGeometry x="-332" y="-36" width="1477" height="809" as="geometry" />
         </mxCell>
         <mxCell id="fWsVMU4tvbM98KFU46y7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="6" y="49" width="641" height="513" as="geometry" />
+          <mxGeometry x="6" y="49" width="1040" height="558" as="geometry" />
         </mxCell>
         <mxCell id="fWsVMU4tvbM98KFU46y7-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Deo3jvzjxQysCk5P8_Im-2" target="fWsVMU4tvbM98KFU46y7-2">
           <mxGeometry relative="1" as="geometry" />
@@ -25,11 +25,20 @@
         <mxCell id="fWsVMU4tvbM98KFU46y7-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;EG1218 E-switch&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350.5" y="102" width="122" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-8" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;MicroSD card&lt;br&gt;module&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;textOpacity=80;" vertex="1" parent="1">
+        <mxCell id="fWsVMU4tvbM98KFU46y7-8" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;MicroSD card &amp;nbsp; module&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;textOpacity=80;" vertex="1" parent="1">
           <mxGeometry x="350.5" y="176.63" width="122" height="51" as="geometry" />
         </mxCell>
         <mxCell id="fWsVMU4tvbM98KFU46y7-9" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;W25Q SPI&lt;br&gt;flash chip&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350.5" y="252" width="122" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fWsVMU4tvbM98KFU46y7-10" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GY-91 module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350.5" y="327" width="122" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fWsVMU4tvbM98KFU46y7-12" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RFM95W LoRa module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350.5" y="494" width="122" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fWsVMU4tvbM98KFU46y7-13" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;BN-880 GPS &amp;nbsp; &amp;nbsp;module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350.5" y="410" width="122" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
