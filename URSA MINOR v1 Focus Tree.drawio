@@ -1,17 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T18:11:49.679Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="wdzKTAp6yaDQ5bZm6PbM" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T18:33:48.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="t2PaMLpwAeC1QjAHVvo6" version="22.1.21" type="github">
   <diagram id="Kgz-I2Onq_ngCIVEnlhg" name="Page-1">
-    <mxGraphModel dx="1248" dy="1015" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1475" dy="1179" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Deo3jvzjxQysCk5P8_Im-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-234" y="-36" width="745" height="414" as="geometry" />
+        <mxCell id="Deo3jvzjxQysCk5P8_Im-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-234" y="-36" width="1291" height="665" as="geometry" />
         </mxCell>
-        <mxCell id="Deo3jvzjxQysCk5P8_Im-2" value="Make &lt;i&gt;Focus Tree&lt;/i&gt; of tasks to complete for Functionality" style="whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-198" y="139.5" width="129" height="63" as="geometry" />
+        <mxCell id="fWsVMU4tvbM98KFU46y7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="6" y="49" width="641" height="513" as="geometry" />
         </mxCell>
-        <mxCell id="Deo3jvzjxQysCk5P8_Im-3" value="FUNCTIONALITY" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="fWsVMU4tvbM98KFU46y7-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Deo3jvzjxQysCk5P8_Im-2" target="fWsVMU4tvbM98KFU46y7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Deo3jvzjxQysCk5P8_Im-2" value="Make &lt;i style=&quot;font-size: 12px;&quot;&gt;Focus Tree&lt;/i&gt; of tasks to complete for Functionality" style="whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="275" width="129" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Deo3jvzjxQysCk5P8_Im-3" value="FUNCTIONALITY" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="55.5" y="-26" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWsVMU4tvbM98KFU46y7-1" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;Create .ide file, and make a&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&amp;nbsp;comment layout:&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Declare functions and preliminary variables&lt;/li&gt;&lt;li&gt;Explain how each function works in pseudocode, beside function declaration&lt;/li&gt;&lt;li&gt;Make prototypes for each function&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="47" y="227.63" width="205" height="157.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
