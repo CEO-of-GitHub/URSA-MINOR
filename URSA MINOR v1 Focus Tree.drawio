@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T23:12:47.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="YpHHbusZGO3M_I1H9uyC" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T23:13:08.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="hXLEdTuUYyUcYzuwciTg" version="23.0.1" type="github">
   <diagram id="Kgz-I2Onq_ngCIVEnlhg" name="Page-1">
-    <mxGraphModel dx="1101" dy="1015" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="805" dy="849" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,25 +86,25 @@
           <mxGeometry x="93" y="-145" width="195" height="146" as="geometry" />
         </mxCell>
         <mxCell id="NzM3c5rhbgq5Nzea2j3H-20" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="366" y="148" width="374" height="184" as="geometry" />
+          <mxGeometry x="366" y="148" width="391" height="184" as="geometry" />
         </mxCell>
         <mxCell id="-cz0K4mL6-3bw0Zg1IZK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="NzM3c5rhbgq5Nzea2j3H-20" vertex="1">
-          <mxGeometry width="374.00000000000006" height="184" as="geometry" />
+          <mxGeometry width="391.00000000000006" height="184" as="geometry" />
         </mxCell>
         <mxCell id="-cz0K4mL6-3bw0Zg1IZK-10" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;Test out data collection and transfer with these three tools:&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left; line-height: 100%;&quot;&gt;&lt;ul style=&quot;line-height: 100%;&quot;&gt;&lt;li&gt;E-switch for activating data collection&lt;/li&gt;&lt;li&gt;Pushbutton switch for deleting W25Q SPI flash chip data&lt;/li&gt;&lt;li&gt;MicroSD module + W25Q SPI flash chip for storing collected data&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="NzM3c5rhbgq5Nzea2j3H-20" vertex="1">
-          <mxGeometry x="21.11290322580646" y="17.672316384180792" width="331.774193548387" height="60.074440677966095" as="geometry" />
+          <mxGeometry x="22.0725806451613" y="17.672316384180792" width="346.8548387096773" height="60.074440677966095" as="geometry" />
         </mxCell>
         <mxCell id="fWsVMU4tvbM98KFU46y7-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;EG1218&lt;br&gt;E-switch&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="NzM3c5rhbgq5Nzea2j3H-20" vertex="1">
-          <mxGeometry x="23.99512396047864" y="101.87570621468926" width="71.39617977528093" height="56.738531073446325" as="geometry" />
+          <mxGeometry x="25.085811413227667" y="101.87570621468926" width="74.64146067415733" height="56.738531073446325" as="geometry" />
         </mxCell>
         <mxCell id="eNUzJ6Q4fZItbAREqSK0-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Pushbutton switch&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="NzM3c5rhbgq5Nzea2j3H-20">
-          <mxGeometry x="108.83849474699552" y="101.87570621468926" width="71.39617977528093" height="56.738531073446325" as="geometry" />
+          <mxGeometry x="113.78569905367713" y="101.87570621468926" width="74.64146067415733" height="56.738531073446325" as="geometry" />
         </mxCell>
         <mxCell id="eNUzJ6Q4fZItbAREqSK0-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;W25Q SPI flash chip&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="NzM3c5rhbgq5Nzea2j3H-20">
-          <mxGeometry x="193.72388800542242" y="101.87570621468926" width="71.39617977528093" height="56.738531073446325" as="geometry" />
+          <mxGeometry x="202.52951927839615" y="101.87570621468926" width="74.64146067415733" height="56.738531073446325" as="geometry" />
         </mxCell>
         <mxCell id="eNUzJ6Q4fZItbAREqSK0-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;MicroSD card module&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="NzM3c5rhbgq5Nzea2j3H-20">
-          <mxGeometry x="278.6092812638495" y="101.87570621468926" width="71.39617977528093" height="56.738531073446325" as="geometry" />
+          <mxGeometry x="291.2733395031154" y="101.87570621468926" width="74.64146067415733" height="56.738531073446325" as="geometry" />
         </mxCell>
         <mxCell id="NzM3c5rhbgq5Nzea2j3H-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Perform calibration tests&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1269" y="561" width="220" height="101" as="geometry" />
