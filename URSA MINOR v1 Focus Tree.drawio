@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T05:42:58.792Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="wICAv7QOL136XwArIcer" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T05:52:53.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="DO7i0TfqZgros5j20L61" version="23.0.0" type="github">
   <diagram id="Kgz-I2Onq_ngCIVEnlhg" name="Page-1">
-    <mxGraphModel dx="3248" dy="1015" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="1179" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fWsVMU4tvbM98KFU46y7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-2045" y="-290" width="1422" height="987" as="geometry" />
-        </mxCell>
-        <mxCell id="Deo3jvzjxQysCk5P8_Im-3" value="FUNCTIONALITY" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1462" y="-282" width="284" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="NzM3c5rhbgq5Nzea2j3H-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWsVMU4tvbM98KFU46y7-1" target="-cz0K4mL6-3bw0Zg1IZK-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="375.66666666666674" y="242.33333333333337" as="targetPoint" />
@@ -88,8 +82,8 @@
         <mxCell id="fWsVMU4tvbM98KFU46y7-12" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RFM95W LoRa module&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="NzM3c5rhbgq5Nzea2j3H-5" vertex="1">
           <mxGeometry x="53.11417004048583" y="50.73825503355704" width="123.78097165991905" height="38.48859060402685" as="geometry" />
         </mxCell>
-        <mxCell id="NzM3c5rhbgq5Nzea2j3H-19" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;COLOR SCHEME:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;ul style=&quot;line-height: 100%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Assembly (YELLOW)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Functionality (GRAY)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Calibration (GREEN)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Data (BLUE)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;spacingLeft=12;spacingBottom=12;spacingRight=12;spacingTop=12;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="77" y="-90" width="195" height="146" as="geometry" />
+        <mxCell id="NzM3c5rhbgq5Nzea2j3H-19" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;COLOR SCHEME:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;ul style=&quot;line-height: 100%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Assembly (GREEN)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Functionality (GRAY)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Calibration (PURPLE)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Data (BLUE)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;spacingLeft=12;spacingBottom=12;spacingRight=12;spacingTop=12;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="93" y="-145" width="195" height="146" as="geometry" />
         </mxCell>
         <mxCell id="NzM3c5rhbgq5Nzea2j3H-20" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="366" y="155" width="310" height="177" as="geometry" />
@@ -103,11 +97,20 @@
         <mxCell id="fWsVMU4tvbM98KFU46y7-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;EG1218&lt;br&gt;E-switch&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="NzM3c5rhbgq5Nzea2j3H-20" vertex="1">
           <mxGeometry x="12.572031076581538" y="100.07027027027027" width="83.9511653718091" height="54.58378378378379" as="geometry" />
         </mxCell>
-        <mxCell id="fWsVMU4tvbM98KFU46y7-8" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;MicroSD card module&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;textOpacity=80;verticalAlign=middle;horizontal=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="NzM3c5rhbgq5Nzea2j3H-20" vertex="1">
+        <mxCell id="fWsVMU4tvbM98KFU46y7-8" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;MicroSD card module&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;textOpacity=80;verticalAlign=middle;horizontal=1;align=center;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;" parent="NzM3c5rhbgq5Nzea2j3H-20" vertex="1">
           <mxGeometry x="113.38224195338512" y="100.07027027027027" width="83.9511653718091" height="54.58378378378379" as="geometry" />
         </mxCell>
         <mxCell id="fWsVMU4tvbM98KFU46y7-9" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;W25Q SPI&lt;br&gt;flash chip&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="NzM3c5rhbgq5Nzea2j3H-20" vertex="1">
           <mxGeometry x="213.48368479467263" y="100.07027027027027" width="83.9511653718091" height="54.58378378378379" as="geometry" />
+        </mxCell>
+        <mxCell id="NzM3c5rhbgq5Nzea2j3H-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Perform calibration tests&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="561" width="220" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="NzM3c5rhbgq5Nzea2j3H-22" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Look for an industry professional and ask them how we should proceed with calibration based on our specific objectives for the E-Bay.&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1009" y="735" width="175" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="NzM3c5rhbgq5Nzea2j3H-23" value="Draw a flowchart f" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="769" y="203" width="191" height="156.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
