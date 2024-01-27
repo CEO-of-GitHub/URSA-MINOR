@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T09:03:26.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="6gJ4U22Xyd02OFGIwMA_" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T09:03:35.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="yoiUECds7zbSAuIn38JE" version="23.0.2" type="github">
   <diagram id="Kgz-I2Onq_ngCIVEnlhg" name="Page-1">
     <mxGraphModel dx="597" dy="833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
         <mxCell id="nsSrP7lF0Vva7qHaFCB7-1" value="Look for an industry professional and ask them how we should proceed with calibration based on our specific objectives for the E-Bay." style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="856" y="831" width="144" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="nsSrP7lF0Vva7qHaFCB7-4" value="FOCUS TREE FOR BATTERY COMMITTEE" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="nsSrP7lF0Vva7qHaFCB7-4" value="MAKE FOCUS TREE FOR BATTERY COMMITTEE" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1015" y="762" width="121" height="85" as="geometry" />
         </mxCell>
         <mxCell id="nsSrP7lF0Vva7qHaFCB7-6" value="Apply necessary adjustments (e.g. statistical filters) to improve data accuracy and precision" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
