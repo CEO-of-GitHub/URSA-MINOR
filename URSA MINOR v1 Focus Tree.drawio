@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T09:13:35.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="zssM346vJARmWxoR929I" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T09:16:05.174Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="8pPFfTBir-s68yiPp8Dt" version="23.0.2" type="github">
   <diagram id="Kgz-I2Onq_ngCIVEnlhg" name="Page-1">
-    <mxGraphModel dx="1240" dy="1298" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,6 +162,12 @@
         </mxCell>
         <mxCell id="-cz0K4mL6-3bw0Zg1IZK-10" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;Test out data collection and transfer with these four components:&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left; line-height: 100%;&quot;&gt;&lt;ul style=&quot;line-height: 100%;&quot;&gt;&lt;li&gt;E-switch for activating data collection&lt;/li&gt;&lt;li&gt;Pushbutton switch for: 1. deleting W25Q SPI flash chip data, or 2. copying data from SPI flash chip to microSD&lt;/li&gt;&lt;li&gt;Red LED light for signaling deletion of SPI flash chip data, blue LED light for signaling successful data transfer&lt;/li&gt;&lt;li&gt;MicroSD module + W25Q SPI flash chip for storing collected data&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="nsSrP7lF0Vva7qHaFCB7-24" vertex="1">
           <mxGeometry x="32.765625" y="5.582278481012659" width="400.46875" height="107.69012658227847" as="geometry" />
+        </mxCell>
+        <mxCell id="nsSrP7lF0Vva7qHaFCB7-25" value="MAKE FOCUS TREE FOR &amp;nbsp;DATA COMMITTEE" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="911" y="303" width="113" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="nsSrP7lF0Vva7qHaFCB7-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="nsSrP7lF0Vva7qHaFCB7-25" target="nsSrP7lF0Vva7qHaFCB7-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
